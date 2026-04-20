@@ -1,0 +1,7 @@
+EN pic24 NULL Z:/PIC24/PIC24.vhf sub00/vhpl05 1758081561
+EN rom32x24 NULL Z:/PIC24/ROM32x24.vhd sub00/vhpl04 1757954679
+AR pic24 behavioral Z:/PIC24/PIC24.vhf sub00/vhpl06 1758081562
+EN pc_update NULL Z:/PIC24/PC_Update.vhd sub00/vhpl00 1756670116
+EN progcnt NULL Z:/PIC24/ProgCnt.vhd sub00/vhpl02 1756670202
+AR progcnt behavioral Z:/PIC24/ProgCnt.vhd sub00/vhpl03 1756670203
+AR pc_update behavioral Z:/PIC24/PC_Update.vhd sub00/vhpl01 1756670117

@@ -1,0 +1,4 @@
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "Z:/PIC24/PIC24.sch" PIC24.vhf
+xst -ise "Z:/PIC24/PIC24.ise" -intstyle ise -ifn PIC24.xst -ofn PIC24.syr
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "Z:/PIC24/PIC24.sch" PIC24.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "Z:/PIC24/PIC24.sch" PIC24.vhf

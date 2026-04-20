@@ -1,0 +1,53 @@
+Release 9.2.04i - xst J.40
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.46 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//vboxsvr/pic24/PIC24/ROM32x24.vhd" in Library work.
+Entity <ROM32x24> compiled.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 40. Size mismatch.  String literal "00000000000000000000000000000001" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 41. Size mismatch.  String literal "00000000000000000000000000000010" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 42. Size mismatch.  String literal "00000000000000000000000000000100" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 43. Size mismatch.  String literal "00000000000000000000000000001000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 44. Size mismatch.  String literal "00000000000000000000000000010000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 45. Size mismatch.  String literal "00000000000000000000000000100000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 46. Size mismatch.  String literal "00000000000000000000000001000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 47. Size mismatch.  String literal "00000000000000000000000010000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 48. Size mismatch.  String literal "00000000000000000000000100000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 49. Size mismatch.  String literal "00000000000000000000001000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 50. Size mismatch.  String literal "00000000000000000000010000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 51. Size mismatch.  String literal "00000000000000000000100000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 52. Size mismatch.  String literal "00000000000000000001000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 53. Size mismatch.  String literal "00000000000000000010000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 54. Size mismatch.  String literal "00000000000000000100000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 55. Size mismatch.  String literal "00000000000000001000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 56. Size mismatch.  String literal "00000000000000010000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 57. Size mismatch.  String literal "00000000000000100000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 58. Size mismatch.  String literal "00000000000001000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 59. Size mismatch.  String literal "00000000000010000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 60. Size mismatch.  String literal "00000000000100000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 61. Size mismatch.  String literal "00000000001000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 62. Size mismatch.  String literal "00000000010000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 63. Size mismatch.  String literal "00000000100000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 64. Size mismatch.  String literal "00000001000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 65. Size mismatch.  String literal "00000010000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 66. Size mismatch.  String literal "00000100000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 67. Size mismatch.  String literal "00001000000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 68. Size mismatch.  String literal "00010000000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 69. Size mismatch.  String literal "00100000000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 70. Size mismatch.  String literal "01000000000000000000000000000000" is of size 32 but is expected to be of size 24.
+ERROR:HDLParsers:3384 - "//vboxsvr/pic24/PIC24/ROM32x24.vhd" Line 71. Size mismatch.  String literal "10000000000000000000000000000000" is of size 32 but is expected to be of size 24.
+CPU : 0.23 / 0.70 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 178024 kilobytes
+
+Number of errors   :   32 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

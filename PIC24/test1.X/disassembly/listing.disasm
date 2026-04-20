@@ -1,0 +1,27 @@
+Disassembly Listing for test1
+Generated From:
+D:/PIC24/test1.X/dist/default/debug/test1.X.debug.elf
+Sep 16, 2025 7:03:07 PM
+
+---  D:/PIC24/test1.X/test1.s  --------------------------------------------------------------------------
+                                                  1:     ; The following code will be placed in the executable
+                                                  2:     ; code section.
+                                                  3:     .text
+                                                  4:     .global __reset
+                                                  5:     __reset:
+                                                  6:     LOOP:
+0002B8  808101     MOV 0x1020, W1                 7:         mov     0x1020, w1  ;INW0=aaab
+0002BA  808112     MOV 0x1022, W2                 8:         mov     0x1022, w2  ;INW1=5555
+0002BC  408182     ADD W1, W2, W3                 9:         add     w1,w2,w3    
+0002BE  508202     SUB W1, W2, W4                 10:        sub     w1,w2,w4    
+0002C0  608282     AND W1, W2, W5                 11:        and     w1,w2,w5    
+0002C2  708302     IOR W1, W2, W6                 12:        ior     w1,w2,w6    
+0002C4  888121     MOV W1, 0x1024                 13:        mov     w1, 0x1024
+0002C6  888122     MOV W2, 0x1024                 14:        mov     w2, 0x1024
+0002C8  888123     MOV W3, 0x1024                 15:        mov     w3, 0x1024
+0002CA  888124     MOV W4, 0x1024                 16:        mov     w4, 0x1024
+0002CC  888125     MOV W5, 0x1024                 17:        mov     w5, 0x1024
+0002CE  888126     MOV W6, 0x1024                 18:        mov     w6, 0x1024
+0002D0  37FFF3     BRA 0x2B8                      19:        bra     LOOP
+                                                  20:    .end
+                                                  21:    

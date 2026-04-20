@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">40</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000000001</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">41</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000000010</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">42</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000000100</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">43</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000001000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">44</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000010000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">45</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000000100000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">46</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000001000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">47</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000010000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">48</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000000100000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">49</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000001000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">50</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000010000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">51</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000000100000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">52</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000001000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">53</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000010000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">54</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000000100000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">55</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000001000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">56</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000010000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">57</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000000100000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">58</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000001000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">59</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000010000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">60</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000000100000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">61</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000001000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">62</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000010000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">63</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000000100000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">64</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000001000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">65</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000010000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">66</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00000100000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">67</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00001000000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">68</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00010000000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">69</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">00100000000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">70</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">01000000000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3384" delta="unknown" >&quot;<arg fmt="%s" index="1">//vboxsvr/pic24/PIC24/ROM32x24.vhd</arg>&quot; Line <arg fmt="%d" index="2">71</arg>. Size mismatch.  String literal &quot;<arg fmt="%s" index="3">10000000000000000000000000000000</arg>&quot; is of size <arg fmt="%u" index="4">32</arg> but is expected to be of size <arg fmt="%u" index="5">24</arg>.
+</msg>
+
+</messages>
+
